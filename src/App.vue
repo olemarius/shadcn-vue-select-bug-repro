@@ -11,6 +11,39 @@ import { Card, CardContent } from './components/ui/card';
 
 <template>
   <div class="w-full p-10">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <Card>
       <CardContent>
         <Select data-cy="badge-requirement-timespan-select">
